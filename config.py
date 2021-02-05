@@ -4,7 +4,7 @@ import numpy as np
 class Config:
     epoch = 400
     show_epoch = 10
-    data_path = './data-ft-drv-grammar'
+    data_path = './data'
     dtype32 = np.float32
     dtype64 = np.float64
 
